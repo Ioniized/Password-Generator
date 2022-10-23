@@ -1,5 +1,8 @@
 # Download the file and put in into any IDE to use!
 
+# Creation Log:
+# 10/22/2022: Project Started (And Finished)
+
 import random
 
 # password variables

@@ -1,3 +1,5 @@
+# Download the file and put in into any IDE to use!
+
 import random
 
 # password variables
